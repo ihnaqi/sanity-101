@@ -1,6 +1,6 @@
 # Portfolio Website with [Sanity.io](sanity.io)
 
-This is a portfolio website built with Sanity.io and Next.js. It uses the Sanity.io headless CMS to manage the content and React.js to build the frontend.
+This is a portfolio website built with Sanity.io and React.js. It uses the Sanity.io headless CMS to manage the content and React.js to build the frontend.
 
 ## Getting Started
 
